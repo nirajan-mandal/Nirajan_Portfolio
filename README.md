@@ -1,10 +1,8 @@
 
-## Welcome to GitHub Pages
+# Nirajan Mandal
+Process Engineer at Intel
+Email: nirajan.mandal@hotmail.com
+LinkedIn
 
-You can use the [editor on GitHub](https://github.com/nirajan-mandal/Nirajan_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for![image](https://user-images.githubusercontent.com/82335610/114318005-bae60580-9abf-11eb-9064-681d8b399713.png)
+##Bio
+Nirajan receiced his Ph.D. in Physics from Purdue University. He received B.A in Physics and Mathematics with concentration in scientific computing. He is currenlty working as a process engineer at Intel with the CMP (Chemical Mechanical Planarization) team.
