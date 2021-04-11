@@ -5,7 +5,7 @@ Process Engineer at Intel Corporation, Oregon
 
 Email: nirajan.mandal@hotmail.com
 
-[Linkedin](https://www.linkedin.com/in/nirajan-mandal)
+[LinkedIn](https://www.linkedin.com/in/nirajan-mandal)
 
 ## Bio
 
