@@ -16,7 +16,7 @@ Nirajan receiced his Ph.D. in Physics from Purdue University, Indiana. He receiv
 ## Projects
 
 * [Gray-Scott Reaction Diffusion Model using C++/MPI](https://github.com/nirajan-mandal/Gray-Scott-Reaction-Diffusion-Model)
-* Machine Learning using Python
+* [Machine Learning using Python](https://github.com/nirajan-mandal/Machine_Learning)
 
 ## Courses
 
