@@ -19,6 +19,6 @@ Nirajan receiced his Ph.D. in Physics from Purdue University, Indiana. He receiv
 
 ## Courses
 
-* [Data Structures and Program Design](something).
+* [Data Structures and Program Design](https://github.com/nirajan-mandal/Data-Structures-and-Program-Design).
 
 
