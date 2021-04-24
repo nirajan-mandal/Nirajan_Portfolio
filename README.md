@@ -17,3 +17,8 @@ Nirajan receiced his Ph.D. in Physics from Purdue University, Indiana. He receiv
 
 * [Gray-Scott Reaction Diffusion Model using C++/MPI](https://github.com/nirajan-mandal/Gray-Scott-Reaction-Diffusion-Model)
 
+## Courses
+
+* [Data Structures and Program Design] (https://www2.kenyon.edu/Depts/Math/Aydin/Teach/Sp08/218/).
+
+
