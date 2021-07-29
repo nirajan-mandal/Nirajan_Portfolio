@@ -1,7 +1,7 @@
 
 # Nirajan Mandal
 
-Process Engineer at Intel Corporation, Oregon
+Technology development (TD) module & integration yield engineer at Intel Corporation, Oregon
 
 Email: nirajan.mandal@hotmail.com
 
