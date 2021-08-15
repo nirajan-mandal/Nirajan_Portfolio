@@ -3,7 +3,7 @@
 
 Technology development (TD) module & integration yield engineer at Intel Corporation, Oregon
 
-Email: nirajan.mandal@hotmail.com
+Email: nirajan.mandal@hotmail.com or nirajan45@gmail.com
 
 [CV (pdf)](https://github.com/nirajan-mandal/Portfolio/blob/main/Nirajan_Mandal_CV_2021_GH.pdf)
 
