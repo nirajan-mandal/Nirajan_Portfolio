@@ -22,4 +22,4 @@ Nirajan received his Ph.D. in Physics from Purdue University, Indiana. He comple
 
 * [Data Structures and Program Design - C++](https://github.com/nirajan-mandal/Data-Structures-and-Program-Design).
 
-* [Intro to TensorFlow for Deep Learning - UDACITY](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+* [Intro to TensorFlow for Deep Learning - Python (UDACITY)](https://github.com/nirajan-mandal/Intro-to-TensorFlow-for-Deep-Learning-UDACITY)
